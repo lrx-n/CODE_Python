@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
 
 
-print("Hello,Demo")
+print("HelloDemo")
 
