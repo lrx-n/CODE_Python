@@ -1,5 +1,5 @@
-# -*- coding: utf-8 -*-
+﻿# -*- coding: utf-8 -*-
 
 
-print("HelloDemo")
+print("中文")
 
